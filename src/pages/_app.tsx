@@ -17,7 +17,7 @@ const MyApp: AppType<{ session: Session | null }> = ({
       <Head>
         <title>Twitter Clone</title>
         <meta name="description" content="This is a Twitter clone by sian022"/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/twitterlogo.png" />
       </Head>
       <div className="container mx-auto flex items-start sm:pr-4">
         <SideNav />
